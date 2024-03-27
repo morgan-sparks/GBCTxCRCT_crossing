@@ -9,6 +9,8 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+# Update
+This repo is downloaded from https://github.com/cobymcdonald/smk_ddrad and is in the process of being altered to fit GBS data for a Greenback x Colorado River cutt crossing project.
 
 # Summary
 This is a simple pipeline to call SNPs from ddRAD sequencing data using [`STACKS`](https://catchenlab.life.illinois.edu/stacks/). Currently, it will take raw, paired end sequencing files, and do the following:
